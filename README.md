@@ -44,14 +44,14 @@ I’m mickceb,
 <!-- HTML + CSS + JS + PHP -->
 
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/CSS?style=for-the-badge&logo=css3)
-![](https://img.shields.io/badge/Javascript?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript)
 
 <!-- REACT + REDUX + css-in-js -->
 
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux)
-![](https://img.shields.io/badge/Style-Styled_components?style=for-the-badge&logo=styled_components)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux)
+![](https://img.shields.io/badge/Styled_Components-informational?style=for-the-badge&logo=styled_components)
 
 <!-- framework: bootstrap,  -->
 

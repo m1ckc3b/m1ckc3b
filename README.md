@@ -51,10 +51,10 @@ I’m mickceb,
 
 <!-- Tools: NPM, git, github,  -->
 
-<!--
 ![](https://img.shields.io/badge/
 Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
+<!--
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)

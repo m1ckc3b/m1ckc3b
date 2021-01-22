@@ -1,8 +1,10 @@
 ![mickceb's GitHub Banner](./assets/GitHubHeader.png)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/miklceb)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michael-cebulski/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/mickceb)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter)](https://twitter.com/miklceb)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-cebulski/)
+
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=for-the-badge&logo=codepen)](https://codepen.io/mickceb)
 
 Hey there 👋
 

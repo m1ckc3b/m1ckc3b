@@ -43,7 +43,7 @@ I’m mickceb,
 
 <!-- HTML + CSS + JS + PHP -->
 
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react)
 
 <!-- REACT + REDUX + css-in-js -->
 

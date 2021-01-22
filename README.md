@@ -67,6 +67,9 @@ I’m mickceb,
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/Chrome-informational?style=for-the-badge&logo=chrome)
 
+![](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/wordpress-informational?style=for-the-badge&logo=wordpress)
+
 <!--
 ![](https://img.shields.io/badge/
 Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)

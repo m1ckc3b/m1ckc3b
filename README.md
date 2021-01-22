@@ -18,7 +18,7 @@ I’m mickceb,
 
 ## 📌 Pinned Repositories
 
-<br>
+<!-- <br>
 
 <a href="">
   <img align="center" style="margin:1rem 0.5rem" src="" />
@@ -35,7 +35,7 @@ I’m mickceb,
 </a>
 
 <br>
-<br>
+<br> -->
 
 ## 💼 Skills
 
@@ -64,6 +64,8 @@ I’m mickceb,
 ![](https://img.shields.io/badge/Vs_Code-informational?style=for-the-badge&logo=visual-studio-code)
 
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/Chromebook-informational?style=for-the-badge&logo=chromebook)
 
 <!--
 ![](https://img.shields.io/badge/

@@ -51,7 +51,7 @@ I’m mickceb,
 
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux)
-![](https://img.shields.io/badge/Styled_Components-informational?style=for-the-badge&logo=styled_components)
+![](https://img.shields.io/badge/Styled_Components-informational?style=for-the-badge&logo=styled-components)
 
 <!-- framework: bootstrap,  -->
 

@@ -43,7 +43,7 @@ I’m mickceb,
 
 <!-- HTML + CSS + JS + PHP -->
 
-![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5)
+[](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript)
 
@@ -59,7 +59,7 @@ I’m mickceb,
 
 <!-- Tools: NPM, git, github,  -->
 
-![](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm)
+[](https://img.shields.io/badge/Npm-informational?style=for-the-badge&logo=npm)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=github)
 

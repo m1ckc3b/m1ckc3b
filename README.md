@@ -43,18 +43,26 @@ I’m mickceb,
 
 <!-- HTML + CSS + JS + PHP -->
 
-![](https://img.shields.io/badge/?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/?style=for-the-badge&logo=html)
+![](https://img.shields.io/badge/?style=for-the-badge&logo=css)
+![](https://img.shields.io/badge/?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/?style=for-the-badge&logo=php)
 
 <!-- REACT + REDUX + css-in-js -->
+
+![](https://img.shields.io/badge/?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/?style=for-the-badge&logo=redux)
+![](https://img.shields.io/badge/?style=for-the-badge&logo=styled-components)
 
 <!-- framework: bootstrap,  -->
 
 <!-- Tools: NPM, git, github,  -->
 
+<!--
 ![](https://img.shields.io/badge/
 Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
-<!--
+
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)

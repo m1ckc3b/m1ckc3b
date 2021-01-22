@@ -43,8 +43,8 @@ I’m mickceb,
 
 <!-- HTML + CSS + JS + PHP -->
 
-![](https://img.shields.io/badge/Style-HTML-informational?style=for-the-badge&logo=html)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css)
+![](https://img.shields.io/badge/Style-HTML-informational?style=for-the-badge&logo=html5)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/Code-Php-informational?style=for-the-badge&logo=php)
 

@@ -18,9 +18,9 @@ I’m mickceb,
 
 ## 📌 Pinned Repositories
 
-<!-- <br>
+<br>
 
-<a href="">
+<!-- <a href="">
   <img align="center" style="margin:1rem 0.5rem" src="" />
 </a>
 
@@ -32,10 +32,9 @@ I’m mickceb,
 
 <a href="">
   <img align="center" style="margin:0.5rem" src="" />
-</a>
+</a> -->
 
 <br>
-<br> -->
 
 ## 💼 Skills
 

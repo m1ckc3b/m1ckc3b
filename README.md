@@ -65,6 +65,8 @@ I’m mickceb,
 
 ![](https://img.shields.io/badge/Vs_Code-informational?style=for-the-badge&logo=visual-studio-code)
 
+![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux)
+
 <!--
 ![](https://img.shields.io/badge/
 Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)

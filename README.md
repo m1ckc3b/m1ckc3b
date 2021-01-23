@@ -4,7 +4,10 @@
 
 Hey there 👋
 
-I’m mickceb,
+I’m mickceb.
+
+Who am I ?
+Dad, husband, atypical man. Web deb front-end.
 
 ## 📌 Pinned Repositories
 

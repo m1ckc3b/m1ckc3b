@@ -6,6 +6,7 @@ Hey there 👋
 
 I’m mickceb,
 
+<!--
 ## 📝 Latest Blog Posts
 
 <br>
@@ -15,7 +16,7 @@ I’m mickceb,
 <!-- BLOG-POST-LIST:END -->
 
 <br>
-
+-->
 ## 📌 Pinned Repositories
 
 <br>
@@ -69,3 +70,8 @@ I’m mickceb,
 
 ![](https://img.shields.io/badge/php-informational?style=for-the-badge&logo=php)
 ![](https://img.shields.io/badge/wordpress-informational?style=for-the-badge&logo=wordpress)
+
+![](https://img.shields.io/badge/UX-informational?style=for-the-badge)
+![](https://img.shields.io/badge/psychology-informational?style=for-the-badge)
+![](https://img.shields.io/badge/webmarketing-informational?style=for-the-badge)
+

@@ -6,18 +6,6 @@ Hey there 👋
 
 I’m mickceb,
 
-<!--
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
--->
-
 ## 📌 Pinned Repositories
 
 <br>
@@ -75,4 +63,3 @@ I’m mickceb,
 ![](https://img.shields.io/badge/UX_design-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/psychology-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/webmarketing-informational?style=for-the-badge)
-

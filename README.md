@@ -33,6 +33,7 @@
 
 <!-- framework: bootstrap,  -->
 
+![](https://img.shields.io/badge/sass-informational?style=for-the-badge&logo=sass)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap)
 ![](https://img.shields.io/badge/Bulma-informational?style=for-the-badge&logo=bulma)
 
@@ -55,5 +56,14 @@
 ![](https://img.shields.io/badge/UX_design-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/psychology-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/webmarketing-informational?style=for-the-badge)
+
+## 📆 In Progress...
+![](https://img.shields.io/badge/nuxt.js-informational?style=for-the-badge&logo=nuxt.js)
+![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/firebase-informational?style=for-the-badge&logo=firebase)
+
+
+
+
 
 <img alt="mickceb's github stats" src="https://github-readme-stats.vercel.app/api?username=mickceb&&show_icons=true&theme=dracula&hide=contribs">

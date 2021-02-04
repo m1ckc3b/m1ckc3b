@@ -7,6 +7,11 @@
 ![](https://img.shields.io/badge/husband-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/cergy-informational?style=for-the-badge)
 
+* 📘 Self-taught
+* 🔎 Focus on frontend web app
+* 🗂 Many side-projects
+* ✏ Interested in Atomic Design & UX/UI
+
 ## 💼 Skills
 
 <!-- HTML + CSS + JS + PHP -->
@@ -14,6 +19,11 @@
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3)
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=javascript)
+
+<!-- VUE + VUEX -->
+![](https://img.shields.io/badge/vue-informational?style=for-the-badge&logo=vue.js)
+![](https://img.shields.io/badge/vuex-informational?style=for-the-badge&logo=vue.js)
+
 
 <!-- REACT + REDUX + css-in-js -->
 

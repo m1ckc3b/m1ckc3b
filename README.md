@@ -24,6 +24,7 @@
 <!-- framework: bootstrap,  -->
 
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap)
+![](https://img.shields.io/badge/Bulma-informational?style=for-the-badge&logo=bulma)
 
 <!-- Tools: NPM, git, github,  -->
 

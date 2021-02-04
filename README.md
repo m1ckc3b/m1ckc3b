@@ -1,4 +1,10 @@
-![mickceb's GitHub Banner](./assets/GitHubHeader.png)
+# Web developer (frontend)
+
+HI, I'm mickceb. Who am I ?
+
+![](https://img.shields.io/badge/41-informational?style=for-the-badge)
+![](https://img.shields.io/badge/dad-informational?style=for-the-badge)
+![](https://img.shields.io/badge/husband-informational?style=for-the-badge)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter)](https://twitter.com/miklceb) <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-cebulski/) [![CodePen Badge](https://img.shields.io/badge/CodePen-informational?style=for-the-badge&logo=codepen)](https://codepen.io/mickceb) -->
 

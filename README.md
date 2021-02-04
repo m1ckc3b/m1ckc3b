@@ -5,35 +5,7 @@ HI, I'm mickceb. Who am I ?
 ![](https://img.shields.io/badge/41-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/dad-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/husband-informational?style=for-the-badge)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter)](https://twitter.com/miklceb) <!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-cebulski/) [![CodePen Badge](https://img.shields.io/badge/CodePen-informational?style=for-the-badge&logo=codepen)](https://codepen.io/mickceb) -->
-
-Hey there 👋
-
-I’m mickceb.
-
-Who am I ?
-Dad, husband, atypical man. Web deb front-end.
-
-## 📌 Pinned Repositories
-
-<br>
-
-<!-- <a href="">
-  <img align="center" style="margin:1rem 0.5rem" src="" />
-</a>
-
-<br>
-
-<a href="">
-  <img align="center" style="margin:0.5rem" src="" />
-</a>
-
-<a href="">
-  <img align="center" style="margin:0.5rem" src="" />
-</a> -->
-
-<br>
+![](https://img.shields.io/badge/cergy-informational?style=for-the-badge)
 
 ## 💼 Skills
 
@@ -72,3 +44,5 @@ Dad, husband, atypical man. Web deb front-end.
 ![](https://img.shields.io/badge/UX_design-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/psychology-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/webmarketing-informational?style=for-the-badge)
+
+<img alt="mickceb's github stats" src="https://github-readme-stats.vercel.app/api?username=mickceb&&show_icons=true&theme=dracula&hide=contribs">

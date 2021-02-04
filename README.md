@@ -1,6 +1,6 @@
 # Web developer (frontend)
 
-HI, I'm mickceb. Who am I ?
+## 😉 Who am I ?
 
 ![](https://img.shields.io/badge/41-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/dad-informational?style=for-the-badge)

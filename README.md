@@ -44,6 +44,9 @@
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=github)
 
+![](https://img.shields.io/badge/parcel-informational?style=for-the-badge&logo=parcel)
+
+
 ![](https://img.shields.io/badge/Vs_Code-informational?style=for-the-badge&logo=visual-studio-code)
 
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux)

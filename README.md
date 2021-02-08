@@ -61,9 +61,13 @@
 ![](https://img.shields.io/badge/webmarketing-informational?style=for-the-badge)
 
 ## 📆 In Progress...
-![](https://img.shields.io/badge/nuxt.js-informational?style=for-the-badge&logo=nuxt.js)
 ![](https://img.shields.io/badge/typescript-informational?style=for-the-badge&logo=typescript)
+
 ![](https://img.shields.io/badge/firebase-informational?style=for-the-badge&logo=firebase)
+
+![](https://img.shields.io/badge/nuxt.js-informational?style=for-the-badge&logo=nuxt.js)
+![](https://img.shields.io/badge/next.js-informational?style=for-the-badge&logo=next.js)
+
 
 
 

@@ -6,10 +6,11 @@ I'm a (self-taught) JS developer or I supposed to be 😉. Since 2015 I've been 
   - Node.js
   - PostgreSQL
   - React.js
+  - TypeScript
 
 - 👯 I’m looking/loving to collaborate on ...
-  - Tools for developers
-  - Language related project
+  - API development
+  - Automation with Goggle Apps Script
   - Low code / No code platforms
 
 - 🧭 How to reach me:

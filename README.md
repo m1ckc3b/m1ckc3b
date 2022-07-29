@@ -4,14 +4,12 @@ I'm a (self-taught) JS developer or I supposed to be 😉. Since 2015 I've been 
 - 🤔 I'm currently working on:
   - JavaScript
   - Node.js
-  - PostgreSQL
-  - React.js
-  - TypeScript
+  - Google Cloud Platform
 
 - 👯 I’m looking/loving to collaborate on ...
-  - API development
   - Automation with Goggle Apps Script
-  - Low code / No code platforms
+  - API development
+  - Web App development
 
 - 🧭 How to reach me:
   - [Twitter](https://twitter.com/m1ckc3b)

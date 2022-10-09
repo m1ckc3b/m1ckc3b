@@ -4,6 +4,7 @@ I'm a (self-taught) JS developer or I supposed to be 😉. Since 2015 I've been 
 - 🤔 I'm currently working on:
   - JavaScript
   - Node.js
+  - Google Apps Script
   - Google Cloud Platform
 
 - 👯 I’m looking/loving to collaborate on ...

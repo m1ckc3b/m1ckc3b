@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Michael.
-I'm a (self-taught) JS developer or I supposed to be 😉. Since 2015 I've been using low-code to launch websites, web app...    
+I'm a (self-taught) JS developer or I supposed to be 😉. 
 
 - 💪 I’m currently practicing:
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>

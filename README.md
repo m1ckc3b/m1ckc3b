@@ -2,8 +2,8 @@
 I'm a (self-taught) JS developer or I supposed to be 😉. Since 2015 I've been using low-code to launch websites, web app...
 
 - Skills: 
-- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
--   https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white https://img.shields.io/badge/Express.js-404D59?style=for-the-badge 
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></img><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img><img src=""></img><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img><img src=""></img><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></img>
+-       
 
 - 🤔 I'm currently practicing:
   

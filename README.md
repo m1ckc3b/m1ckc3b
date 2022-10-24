@@ -9,7 +9,7 @@ I'm a (self-taught) JS developer or I supposed to be 😉.
   
 - 🌱 I’m currently learning:
   - <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Rust-FFA63C?style=for-the-badge&logo=rust&logoColor=white"></img>
+  - <img src="https://img.shields.io/badge/Rust-FFA63C?style=for-the-badge&logo=Rust&logoColor=white"></img>
 
 
 - 👯 I’m looking/loving to collaborate on ...

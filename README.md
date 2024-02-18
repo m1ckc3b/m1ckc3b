@@ -14,7 +14,6 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
 - 👯 I’m looking/loving to implement Generative AI in your project.
 
 - 🧭 How to reach me:
-  - [Twitter](https://twitter.com/m1ckc3b)
-  - [Linkedin](https://www.linkedin.com/in/michael-cebulski/)
+  - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/michael-cebulski/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b&theme=dark)](https://git.io/streak-stats)

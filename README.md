@@ -14,7 +14,7 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
 - 👯 I’m looking/loving to implement Generative AI in your project.
 
 - 🧭 How to reach me:
-- <div>
+<div>
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" />](https://www.linkedin.com/in/michael-cebulski/)
 </div>
 

@@ -17,6 +17,4 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
   - [Twitter](https://twitter.com/m1ckc3b)
   - [Linkedin](https://www.linkedin.com/in/michael-cebulski/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tony-go&theme=onedark)](https://github.com/m1ckc3b)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b&theme=dark)](https://git.io/streak-stats)

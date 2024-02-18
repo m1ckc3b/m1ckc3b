@@ -1,23 +1,16 @@
 # 👋 Hi, my name is Michael.
-I'm a (self-taught) JS developer or I supposed to be 😉. 
+I'm an Generative AI Engineer and JS dev 😉. 
 
 - 💪 I’m currently practicing:
-  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-  - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></img>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" />
+</div>
   
-- 🌱 I’m currently learning:
-  - <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=Typescript&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Firebase-f5820D?style=for-the-badge&logo=Firebase&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
-  - <img src="https://img.shields.io/badge/Rust-FFA63C?style=for-the-badge&logo=Rust&logoColor=black"></img>
-
-
-- 👯 I’m looking/loving to collaborate on ...
-  - Automation with Goggle Apps Script
-  - API development
-  - Web App development
+- 👯 I’m looking/loving to implement Generative AI in your project.
 
 - 🧭 How to reach me:
   - [Twitter](https://twitter.com/m1ckc3b)

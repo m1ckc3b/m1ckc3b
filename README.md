@@ -13,7 +13,10 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
   
 - 👯 I’m looking/loving to implement Generative AI in your project.
 
-- 🧭 How to reach me: [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" />](https://www.linkedin.com/in/michael-cebulski/)
+- 🧭 How to reach me:
+- <div>
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40px" height="40px" />](https://www.linkedin.com/in/michael-cebulski/)
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b&theme=dark)](https://git.io/streak-stats)
 

@@ -18,4 +18,4 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="50%" />

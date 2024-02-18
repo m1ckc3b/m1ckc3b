@@ -19,4 +19,4 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tony-go&theme=onedark)](https://github.com/m1ckc3b)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b&theme=dark)](https://git.io/streak-stats)

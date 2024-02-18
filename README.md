@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
+  <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47kx6hobw6f73dnak2p1rm85drtx7wes9g2gz8ehx8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100px" />
 </div>
 # 👋 Hi, my name is Michael.
 I'm an Generative AI Engineer and JS/TS dev 😉. 

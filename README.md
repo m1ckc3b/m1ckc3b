@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47kx6hobw6f73dnak2p1rm85drtx7wes9g2gz8ehx8&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100px" />
+  <img src="https://media4.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="100" />
 </div>
 # 👋 Hi, my name is Michael.
 I'm an Generative AI Engineer and JS/TS dev 😉. 

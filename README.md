@@ -19,5 +19,4 @@ I'm a JS/TS dev who creates context-aware Apps with LangChain.js 😉.
   - [Linkedin](https://www.linkedin.com/in/michael-cebulski/)
   - [My Calendar](https://cal.com/michael-cebulski/30min)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m1ckc3b&theme=dark)](https://git.io/streak-stats)
 

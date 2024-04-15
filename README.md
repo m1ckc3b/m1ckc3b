@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Michael.
-I'm an Generative AI Engineer and JS/TS dev 😉. 
+I'm a JS/TS dev who creates context-aware Apps with LangChain.js 😉. 
 
 - 💪 I’m currently practicing:
 <div>

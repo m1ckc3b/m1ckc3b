@@ -13,7 +13,7 @@ I'm an Generative AI Engineer and JS/TS dev 😉.
   <img src="https://www.cdnlogo.com/logos/o/38/openai.svg" width="80px" height="80px"/>&nbsp;
 </div>
   
-- 👯 I’m looking/loving to implement Generative AI in your project.
+- 👯 I’m looking/loving to implement Generative AI in your project (RAG, Chatbot with AI or AI Agent).
 
 - 🧭 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/michael-cebulski/)

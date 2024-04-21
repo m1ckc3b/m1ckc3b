@@ -17,6 +17,6 @@ I'm a JS/TS dev who creates context-aware Apps with LangChain.js 😉.
 
 - 🧭 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/michael-cebulski/)
-  - [My Calendar](https://cal.com/michael-cebulski/30min)
+  - [My Calendar](https://calendar.google.com/calendar/u/0/appointments/AcZssZ3EZ3kUx9IkkVo4_WszbHDzJIBECAf6yNjnZ6o=)
 
 

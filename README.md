@@ -8,6 +8,7 @@ I'm a JS/TS dev who creates context-aware Apps with LangChain.js 😉.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="80px" height="80px"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="80px" height="80px"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="80px" height="80px"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="80px" height="80px"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="80px" height="80px"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LangChain_logo.svg" width="80px" height="80px"/>&nbsp;
   <img src="https://www.cdnlogo.com/logos/o/38/openai.svg" width="80px" height="80px"/>&nbsp;
